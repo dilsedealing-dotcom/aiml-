@@ -1,0 +1,16 @@
+{
+    "symbols": [
+        "XAUUSD",
+        "EURUSD",
+        "GBPUSD"
+    ],
+    "timeframes": [
+        "M5",
+        "M15",
+        "H1"
+    ],
+    "data_count": 50000,
+    "retrain_interval": 24,
+    "risk_percentage": 0.02,
+    "initial_balance": 10000
+}
